@@ -1,4 +1,7 @@
 /* Стили для шапки */
+* {
+  text-decoration: n;
+}
 .header {
     position: fixed;
     width: 100%;
