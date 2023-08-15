@@ -1,6 +1,6 @@
 /* Стили для шапки */
 * {
-  text-decoration: n;
+  text-decoration: none;
 }
 .header {
     position: fixed;
